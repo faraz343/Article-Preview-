@@ -4,14 +4,14 @@
 .column1{
   width:33%;
   float:left;
-  overflow:scroll;
+
   height: 100%;
 }
 .column2{
   position:relative;
   width:67%;
   float:left;
-  overflow: scroll;
+  overflow:visible;
   padding-left: 2%;
   padding-right: 2%;
   height:100%;
