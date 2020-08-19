@@ -4,14 +4,14 @@
 .column1{
   width:33%;
   float:left;
-  overflow: hidden;
+  overflow:scroll;
   height: 100%;
 }
 .column2{
   position:relative;
   width:67%;
   float:left;
-  overflow: hidden;
+  overflow: scroll;
   padding-left: 2%;
   padding-right: 2%;
   height:100%;
@@ -76,7 +76,7 @@
 body{
   width:80%;
   margin:auto;
-  overflow: auto;
+  overflow: scroll;
   margin-top:2%;
 }
 h2{
